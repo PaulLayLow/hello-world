@@ -1,5 +1,5 @@
-iata,Name,city,state,country,Latitude,Longtitude,InstrumentCount
-ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417,25129
-ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444,21925
-DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372,20662
-PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556,17290
+Name,Latitude,Longtitude,InstrumentCount
+Chicago O'Hare International,41.979595,-87.90446417,25129
+William B Hartsfield-Atlanta Intl,33.64044444,-84.42694444,21925
+Dallas-Fort Worth International,32.89595056,-97.0372,20662
+Phoenix Sky Harbor International,33.43416667,-112.0080556,17290
